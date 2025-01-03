@@ -2,6 +2,9 @@ SS-System 3.0.0
 ========
 
 SS-System 3.0 for Unity: Scene &amp; UI Manager!
+<p><strong>Deprecated. Please use this version instead.</strong></p>
+
+<a>https://github.com/AnhPham/Simple-Screen-Manager-for-Unity-aka-SS</a>
 
 ---
 
@@ -21,21 +24,10 @@ I . How to use Demo:
 3. If you want to play nGUI demo, import the newest NGUI version, then do again step 1 & 2, but using the paths ../nGUI/.. instead of ../uGUI/..
 
 II. All documents:
-
-1. Presentation: <a>http://anh-pham.appspot.com/sssystem/en/sssystem.pdf</a>
-2. How to use (step by step): <b>Hello World</b><br>
-<a>http://anh-pham.appspot.com/sssystem/en/sshello.pdf</a><br>
-or:
-Offline document: Assets/SSSystem/Documents/sshello.pdf
-3. How to use (step by step): <b>Advance</b><br>
-<a>http://anh-pham.appspot.com/sssystem/en/ssadvance.pdf</a><br>
-or:
-Offline document: Assets/SSSystem/Documents/ssadvance.pdf
-4. Script Reference:
-<a>http://anh-pham.appspot.com/sssystem/</a>
+Assets/SSSystem/Documents/ssadvance.pdf
 
 III. Home page:
-<a>http://anh-pham.appspot.com</a>
+<a>https://zenga.com.vn</a>
 
 IV. Email contact:
 <a>anhpt.csit@gmail.com</a>
